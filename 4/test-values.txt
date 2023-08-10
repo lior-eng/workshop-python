@@ -1,0 +1,5 @@
+("I don't like this excercise") > "I Don't Like This Excercise"
+("the quick brown fox jumps over the lazy dog") > "The Quick Brown Fox Jumps Over The Lazy Dog"
+("coding is fun and challenging, but it's rewarding") > "Coding Is Fun And Challenging But It's Rewarding"
+("python;java;c++;javascript") > "Python Java C++ Javascript"
+("openai's GPT-3 is a state-of-the-art language model") > "Openai's Gpt-3 Is A State-of-the-art Language Model"
