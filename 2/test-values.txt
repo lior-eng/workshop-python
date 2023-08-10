@@ -1,0 +1,4 @@
+("Hello World and Coders") > "sredoC dna dlroW olleH"
+("Heythere") > "erehtyeH"
+(1234) > "err"
+(1.23) > "err"
