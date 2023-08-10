@@ -1,0 +1,7 @@
+("Hello world") > "Hello"
+("Hello, world! How's everything going?") > "everything"
+("This is an example: it demonstrates the use of punctuation.") > "demonstrates"
+("She said, 'Don't forget to bring your umbrella (just in case)") > "umbrella"
+("The function should work for parentheses {like this} as well.") > "parentheses"
+("I'll be there at 3:30 PM; please don't be late.") > "please"
+("He replied, 'Yes, I will attend the meeting.'") > "replied"
