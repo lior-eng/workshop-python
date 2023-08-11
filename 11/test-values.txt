@@ -1,0 +1,11 @@
+(500,"database timeout") > {"statusCode":500, "statusText":"Internal Server Error","data":"database timeout"}
+(404, "page not found") > {"statusCode": 404, "statusText": "Not Found", "data": "page not found"}
+(200, "success") > {"statusCode": 200, "statusText": "OK", "data": "success"}
+(400, "bad request") > {"statusCode": 400, "statusText": "Bad Request", "data": "bad request"}
+(401, "unauthorized") > {"statusCode": 401, "statusText": "Unauthorized", "data": "unauthorized"}
+(503, "service unavailable") > {"statusCode": 503, "statusText": "Service Unavailable", "data": "service unavailable"}
+(418, "I'm a teapot") > {"statusCode": 418, "statusText": "I'm a teapot", "data": "I'm a teapot"}
+(302, "redirecting") > {"statusCode": 302, "statusText": "Found", "data": "redirecting"}
+(500, "server error") > {"statusCode": 500, "statusText": "Internal Server Error", "data": "server error"}
+(201, "created") > {"statusCode": 201, "statusText": "Created", "data": "created"}
+(204, "no content") > {"statusCode": 204, "statusText": "No Content", "data": "no content"}
