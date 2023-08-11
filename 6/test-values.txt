@@ -1,0 +1,5 @@
+("nomad","and") > True
+("to do is to be","dodo") > False
+("abcdef", "fedcba") > True
+("hello world", "hldorwoe") > True
+("programming", "google") > False
